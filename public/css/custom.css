@@ -1,0 +1,22 @@
+/*Additional custom css*/
+
+.row{
+    justify-content: flex-start;
+}
+.card{
+    margin-left: 3em;
+}
+.card-text{
+    margin-top: 2em;
+}
+
+.short-desc{
+    height: 2em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.article-content{
+    white-space: pre-wrap;
+}
